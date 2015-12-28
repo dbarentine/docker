@@ -1,6 +1,6 @@
 # Basics
 
-from base:latest
+from ubuntu:latest
 maintainer Nicola Paolucci &lt;npaolucci the at sign atlassian.com&gt;
 run apt-get update
 run apt-get install -q -y git-core
